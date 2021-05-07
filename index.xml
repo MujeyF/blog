@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mujey 是一名前端工程师</title>
+    <link>/</link>
+    <description>Recent content on Mujey 是一名前端工程师</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ch-ZN</language>
+    <lastBuildDate>Fri, 07 May 2021 21:29:23 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fist</title>
+      <link>/post/fist/</link>
+      <pubDate>Fri, 07 May 2021 21:29:23 +0800</pubDate>
+      
+      <guid>/post/fist/</guid>
+      <description>这是第一篇文章 大家好 我是FarajMujey
+这是我的第一篇博客
+const string = &amp;#39;Hello Hugo&amp;#39; console.log(string) </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/first/</link>
+      <pubDate>Fri, 07 May 2021 21:24:08 +0800</pubDate>
+      
+      <guid>/first/</guid>
+      <description>我的第一篇博客 const now = new Date() console.log(now) </description>
+    </item>
+    
+    <item>
+      <title>关于Mujey</title>
+      <link>/about/</link>
+      <pubDate>Fri, 07 May 2021 20:38:08 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>hahhah</description>
+    </item>
+    
+  </channel>
+</rss>
